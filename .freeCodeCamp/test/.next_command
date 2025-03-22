@@ -105,3 +105,6 @@ __vsc_prompt_cmd_original
 ./queries.sh
 ./queries.sh
 ./queries.sh
+ls --color=auto
+git --version
+git add .
